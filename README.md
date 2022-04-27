@@ -3,9 +3,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Feataures
 
 - [`TypeScript`](https://www.typescriptlang.org).
-- [`TailwindCSS`](https://tailwindcss.com/).
+- [`Styled-Component`](https://styled-components.com/).
 - [`ESLint`](https://eslint.org), [`Prettier`](https://prettier.io), and [`Husky`](https://typicode.github.io/husky/#/) as Code Style.
-- [`Redux Saga`](https://redux-saga.js.org/) as State Management.
 - [`i18next`](https://github.com/isaachinman/next-i18next) as Translation.
 - Progressive Web Application with [`next-pwa`](https://github.com/shadowwalker/next-pwa).
 - Optimized SEO using [`next-seo`](https://github.com/garmeeh/next-seo).
